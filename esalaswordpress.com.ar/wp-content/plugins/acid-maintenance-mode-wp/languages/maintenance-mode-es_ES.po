@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maintenance Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-29 09:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;_e(;__(\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ../.\n"
+
+#: .././m-mode.php:49
+#: .././m-mode.php:62
+msgid "Modo mantenimiento activo."
+msgstr "Modo mantenimiento activo."
+
+#: .././m-mode.php:60
+msgid "No olvides"
+msgstr "No olvides"
+
+#: .././m-mode.php:60
+msgid "desactivar"
+msgstr "desactivar plugin"
+
+#: .././m-mode.php:60
+msgid "cuando el mantenimiento termine."
+msgstr "cuando el mantenimiento termine."
+
+#: .././m-mode.php:266
+#, fuzzy
+msgid "Activar/Desactivar Modo Mantenimiento"
+msgstr "Activar/Desactivar el modo de mantenimiento"
+
+#: .././m-mode.php:271
+#, fuzzy
+msgid "Activado"
+msgstr "Activado"
+
+#: .././m-mode.php:274
+#, fuzzy
+msgid "Desactivado"
+msgstr "Desactivado"
+
+#: .././m-mode.php:279
+msgid "Save"
+msgstr "Guardar"
+
+#: .././m-mode.php:283
+msgid "Backtime"
+msgstr "De vuelta"
+
+#: .././m-mode.php:284
+msgid "días"
+msgstr "días"
+
+#: .././m-mode.php:285
+msgid "horas"
+msgstr "horas"
+
+#: .././m-mode.php:286
+msgid "mins"
+msgstr "mins"
+
+#: .././m-mode.php:287
+#, fuzzy
+msgid "Por favor introduce el tiempo estimado que necesitará para el mantenimiento. Los marcadores de posición <strong>[date]</strong>, <strong>[time]</strong>, <strong>[days]</strong>, <strong>[hours]</strong>, y <strong>[minutes]</strong> se calculan sobre la base de estos campos."
+msgstr "Por favor introduce el tiempo estimado que necesitará para el mantenimiento. Los marcadores de posición <strong>[date]</strong>, <strong>[time]</strong>, <strong>[days]</strong>, <strong>[hours]</strong>, y <strong>[minutes]</strong> se calculan sobre la base de estos campos."
+
+#: .././m-mode.php:288
+msgid "Ten en cuenta que el modo de mantenimiento no se desactivará automáticamente."
+msgstr "Ten en cuenta que el modo de mantenimiento no se desactivará automáticamente."
+
+#: .././m-mode.php:294
+msgid "Message"
+msgstr "Mensaje"
+
+#: .././m-mode.php:297
+msgid "Title"
+msgstr "Título"
+
+#: .././m-mode.php:301
+msgid "Mensaje"
+msgstr "Mensaje"
+
+#: .././m-mode.php:303
+#, fuzzy
+msgid "Utilice sólo HTML, PHP no permitido. Puede utilizar los marcadores de posición siguientes: <strong>[blogurl]</strong> (La URL de tu WEB), <strong>[blogtitle]</strong> (El Título de tu WEB)"
+msgstr "Utilice sólo HTML, PHP no permitido. Puede utilizar los marcadores de posición siguientes: <strong>[blogurl]</strong>, <strong>[blogtitle]</strong> y <strong>[backtime]</strong>."
+
+#: .././m-mode.php:305
+msgid "Además, los marcadores de posición siguientes se calculan en función del valor que ha introducido o modificado anteriormente en el campo «Backtime»."
+msgstr "Además, los marcadores de posición siguientes se calculan en función del valor que ha introducido o modificado anteriormente en el campo «Backtime»."
+
+#: .././m-mode.php:307
+#, fuzzy
+msgid "<strong>[date]</strong> y <strong>[time]</strong> (cuando el mantenimiento se supone que debe ser terminado, e.g. «05/12/2010» / «3:45PM»)"
+msgstr "<strong>[date]</strong> y <strong>[time]</strong> (cuando el mantenimiento se supone que debe ser terminado, e.j. «05/12/2010» / «3:45PM»)"
+
+#: .././m-mode.php:309
+#, fuzzy
+msgid "<strong>[days]</strong>, <strong>[hours]</strong>, y <strong>[minutes]</strong>: (numero de días/horas/mins hasta que el mantenimiento se supone que termina)"
+msgstr "<strong>[days]</strong>, <strong>[hours]</strong>, y <strong>[minutes]</strong>: (número de días/horas/minutos hasta que el mantenimiento se supone que debe ser terminado)"
+
+#: .././m-mode.php:311
+msgid "Marcador de posición <strong>[until]</strong>: Puedes configurar este marcador de posición en los siguientes ámbitos. La razón de estos campos es para mostrar un mensaje diferente cuando el «Backtime» es superado, para no confundir al usuario."
+msgstr "Marcador de posición <strong>[until]</strong>: Puedes configurar este marcador de posición en los siguientes ámbitos. La razón de estos campos es para mostrar un mensaje diferente cuando el «Backtime» es superado, para no confundir al usuario."
+
+#: .././m-mode.php:313
+msgid "Marcador de posición [until]"
+msgstr "Marcador de posición [until]"
+
+#: .././m-mode.php:316
+msgid "Marcador de posición [until] si el tiempo se supera"
+msgstr "Marcador de posición [until] si el tiempo se supera"
+
+#: .././m-mode.php:324
+msgid "Splash Page Theme"
+msgstr "Estilo Página Splash"
+
+#: .././m-mode.php:327
+msgid "Default Theme"
+msgstr "Estilo por defecto"
+
+#: .././m-mode.php:328
+#, fuzzy
+msgid "WordPress Theme"
+msgstr "WordPress Estilo de inicio de sesión"
+
+#: .././m-mode.php:329
+msgid "Use 503.php from theme folder"
+msgstr "Usar página 503.php de la carpeta del estilo actual de tu blog"
+
+#: .././m-mode.php:332
+msgid "Select the theme for the maintenance mode splash page (check out the screenshots in the plugin directory for a preview)."
+msgstr "Seleccione el tema de la página de bienvenida en modo de mantenimiento (echa un vistazo a las capturas de pantalla en el directorio de plugins para una vista previa)."
+
+#: .././m-mode.php:333
+msgid "If you select &laquo;<em>Use 503.php from theme folder</em>&raquo;, the plugin will use the file '503.php' from the current theme directory for the splash page. If there is no '503.php', it will use the default theme."
+msgstr "Si selecciona  &laquo;<em>Usar 503.php de la carpeta de mi estilo</em>&raquo;, el plugin utilizara el archivo '503.php' desde el directorio del tema actual de la página de bienvenida. Si no hay un archivo '503.php', se utilizará el tema por defecto."
+
+#: .././m-mode.php:334
+msgid "So this option will help using a customized splash page without the fear of losing this page when updating the plugin."
+msgstr "Así que esta opción le ayudará a utilizar una página de bienvenida personalizada, sin el temor de perder esta página cuando se actualiza el plug-in."
+
+#: .././m-mode.php:335
+msgid "Has diseñado un tema hermoso para la página de bienvenida y lo quieres compartir? Por favor, sigue este enlace <a href=\\\"http://www.laliamos.com/contact/\\\">y contacta conmigo para añadirlo al plugin."
+msgstr "Has diseñado un tema hermoso para la página de bienvenida y lo quieres compartir? Por favor, sigue este enlace <a href=\\\"http://www.laliamos.com/contact/\\\">y contacta conmigo para añadirlo al plugin."
+
+#: .././m-mode.php:339
+msgid "Access to blog front-end and administration (back-end)"
+msgstr "Acceso al blog portada y la administración"
+
+#: .././m-mode.php:341
+msgid "By default, only logged in administrators (more exactly: users with the"
+msgstr "De forma predeterminada, sólo se registra en los administradores (más exactamente: los usuarios con la"
+
+#: .././m-mode.php:342
+#: .././m-mode.php:358
+msgid "capability"
+msgstr "capacidad de"
+
+#: .././m-mode.php:343
+msgid "«manage_options») do have full access to the blog's front-end and will not see any splash page when the maintenance mode is activated. You can change this here:"
+msgstr "«manage_options») tiene acceso completo a la portada del blog cuando el modo de mantenimiento está activado. Puede cambiar esto aquí:"
+
+#: .././m-mode.php:346
+msgid "Access to blog front-end with capability (role)"
+msgstr "Acceso a la portada del blog con la capacidad (nivel)"
+
+#: .././m-mode.php:348
+msgid "- No Access - (always display splash page)"
+msgstr "- Sin acceso - (siempre visualización de la página de bienvenida)"
+
+#: .././m-mode.php:349
+#: .././m-mode.php:364
+msgid "«manage_options» (Administrator)"
+msgstr "«manage_options» (administrador)"
+
+#: .././m-mode.php:350
+#: .././m-mode.php:365
+msgid "«manage_categories» (Editor)"
+msgstr "«manage_categories» (Editor)"
+
+#: .././m-mode.php:351
+#: .././m-mode.php:366
+msgid "«publish_posts» (Author)"
+msgstr "«publish_posts» (Autor)"
+
+#: .././m-mode.php:352
+#: .././m-mode.php:367
+msgid "«edit_posts» (Contributor)"
+msgstr "«edit_posts» (Colaborador)"
+
+#: .././m-mode.php:353
+#: .././m-mode.php:368
+msgid "«read» (Subscriber)"
+msgstr "«read» (Suscrito)"
+
+#: .././m-mode.php:357
+msgid "By default, anyone who is logged in to the blog (more exactly: users with the"
+msgstr "De forma predeterminada, cualquier persona que se registra en el blog (más exactamente: los usuarios con nivel "
+
+#: .././m-mode.php:359
+msgid "«read») does have access to the WordPress administration (back-end) when the maintenance mode is activated. You can restrict this here:"
+msgstr "«read») tiene acceso a la administración de WordPress, cuando el modo de mantenimiento está activado. Puede limitar esto, desde aquí:"
+
+#: .././m-mode.php:362
+msgid "Access to administration/back-end with capability (role)"
+msgstr "El acceso a la administración con la capacidad (nivel)"
+
+#: .././m-mode.php:372
+msgid "Paths to be still accessable"
+msgstr "Caminos accesibles"
+
+#: .././m-mode.php:374
+msgid "Enter paths that shall be excluded and still be accessable. Separate multiple paths with line breaks.<br />Example: If you want to exclude <em>http://site.com/about/</em>, then enter <em>/about/</em>.<br />Hint: If you want to exclude the home page, enter <em>[HOME]</em>."
+msgstr "Introduzca los caminos que se excluyen y siguen siendo accesibles. Separe las distintas rutas con saltos de línea.<br />Ejemplo: Si desea excluir <em>http://site.com/about/</em>, a continuación, introduzca <em>/about/</em>.<br />Sugerencia: Si desea excluir la página de inicio, introduzca <em>[HOME]</em>."
+
+#: .././m-mode.php:380
+msgid "Enable feeds"
+msgstr "Habilitar canales (feeds)"
+
+#: .././m-mode.php:384
+msgid "Enable trackbacks"
+msgstr "Habilitar trackbacks"
+
+#: .././m-mode.php:388
+msgid "Enable XML-RPC publishing"
+msgstr "Habilitar publicación XML-RPC"
+
+#: .././m-mode.php:393
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#: .././m-mode.php:396
+msgid "Apply HTTP header '503 Service Unavailable' and 'Retry-After &lt;backtime&gt;' to Maintenance Mode splash page"
+msgstr "Aplicar encabezado HTTP '503 Servicio no disponible' y 'Vuelve después de  &lt;backtime&gt;' para la página de Mantenimiento en la página 'Modo de bienvenida'"
+
+#: .././m-mode.php:586
+msgid "(Access to administration denied by administrator)"
+msgstr "(El acceso a la administración negado por el administrador)"
+
+#: .././m-mode.php:588
+msgid "Administration"
+msgstr "Administración"
+
+#: .././m-mode.php:590
+msgid "Log Out"
+msgstr "Salir"
+
+#: .././m-mode.php:592
+msgid "Log In"
+msgstr "Acceder"
+
+#: .././inc.swg-plugin-framework.php:81
+msgid "Settings"
+msgstr "Opciones"
+
+#: .././inc.swg-plugin-framework.php:90
+msgid "Plugin"
+msgstr "Plugin"
+
+#: .././inc.swg-plugin-framework.php:92
+msgid "Plugin's Homepage"
+msgstr "Web del Plugin"
+
+#: .././inc.swg-plugin-framework.php:117
+msgid "The activated plugin"
+msgstr "Plugin activado"
+
+#: .././inc.swg-plugin-framework.php:118
+msgid "is not compatible with your installed WordPress"
+msgstr "no es compatible con su instalación de WordPress"
+
+#: .././inc.swg-plugin-framework.php:119
+msgid "WordPress version"
+msgstr "WordPress Version"
+
+#: .././inc.swg-plugin-framework.php:119
+msgid "or higher is required when using this plugin, please deactivate it."
+msgstr "o superior es necesaria para utilizar este plugin, por favor desactívelo."
+
+#: .././inc.swg-plugin-framework.php:361
+msgid "You do not have permission to modify the options"
+msgstr "Usted no tiene permiso para modificar las opciones"
+
+#: .././inc.swg-plugin-framework.php:383
+msgid "Settings deleted/reset."
+msgstr "Eliminar la configuración/reset."
+
+#: .././inc.swg-plugin-framework.php:385
+msgid "Settings saved."
+msgstr "Configuración guardada."
+
+#: .././inc.swg-plugin-framework.php:422
+msgid "Plugin Settings"
+msgstr "Configuración del Plugin"
+
+#: .././inc.swg-plugin-framework.php:435
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: .././inc.swg-plugin-framework.php:436
+msgid "Do you really want to delete/reset the plugin settings?"
+msgstr "¿Estás seguro que quieres borrar, restaurar la configuración del plugin?"
+
+#: .././inc.swg-plugin-framework.php:436
+msgid "Delete/Reset Settings"
+msgstr "Eliminar/Restaurar ajustes"
+
+#~ msgid "WordPress Support"
+#~ msgstr "Soporte Wordpress"
+
+#~ msgid "Other Plugins I've Written"
+#~ msgstr "Otros módulos que he escrito"
+
+#~ msgid "Do you like this plugin?"
+#~ msgstr "¿Te gusta este plugin?"
+
+#~ msgid ""
+#~ "I spend a lot of time on the plugins I've written for WordPress. Any "
+#~ "donation would be highly appreciated."
+#~ msgstr ""
+#~ "Paso mucho tiempo en los plugins que he escrito para WordPress. Cualquier "
+#~ "donación será muy apreciada."
+
+#~ msgid "Donate via PayPal"
+#~ msgstr "Dona a través de PayPal"
+
+#~ msgid "My Amazon Wish List"
+#~ msgstr "Mi lista de deseos de Amazon"
+
+#~ msgid "The Maintenance Mode is active."
+#~ msgstr "El modo de mantenimiento está activo."
+
+#~ msgid "Please don't forget to"
+#~ msgstr "Por favor, no olvides"
+
+#~ msgid "it as soon as you are done."
+#~ msgstr "tan pronto como hayas terminado."
+
+#~ msgid "days"
+#~ msgstr "días"
+
+#~ msgid "hours"
+#~ msgstr "horas"
+
+#~ msgid ""
+#~ "Please note that the maintenance mode will never be deactivated "
+#~ "automatically."
+#~ msgstr ""
+#~ "Tenga en cuenta que el modo de mantenimiento no se desactivará "
+#~ "automáticamente."
+
+#~ msgid ""
+#~ "Furthermore, the following placeholders are calculated based on the value "
+#~ "you entered or changed above in the field «Backtime»."
+#~ msgstr ""
+#~ "Además, los marcadores de posición siguientes se calculan en función del "
+#~ "valor que ha introducido o modificado anteriormente en el campo «De "
+#~ "vuelta»."
+
+#~ msgid ""
+#~ "Placeholder <strong>[until]</strong>: You can setup this placeholder in "
+#~ "the following fields. The reason for these fields is to display a "
+#~ "different message when the «Backtime» is exceeded to not confuse your "
+#~ "visitors."
+#~ msgstr ""
+#~ "Marcador de posición <strong>[until]</strong>: Usted puede configurar "
+#~ "este marcador de posición en los siguientes ámbitos. La razón de estos "
+#~ "campos es para mostrar un mensaje diferente cuando la «De vuelta» se "
+#~ "supera a no confundir al usuario."
+
+#~ msgid "Placeholder [until]"
+#~ msgstr "Marcador de posición [until]"
+
+#~ msgid "Placeholder [until] if time is exceeded"
+#~ msgstr "Marcador de posición [until] si el tiempo se agota"
+
+#~ msgid ""
+#~ "Please note that you can't use WordPress theme functions (e.g. "
+#~ "<em>get_sidebar()</em>, etc.) in the '503.php'."
+#~ msgstr ""
+#~ "Tenga en cuenta que no puede utilizar las funciones de WordPress. (e.j. "
+#~ "<em>get_sidebar()</em>, etc.) en el stilo '503.php'"
+
+#~ msgid ""
+#~ "You have designed a beautiful splash page theme you want to share? Please "
+#~ "go ahead and <a href=\"http://sw-guide.de/kontakt/\">drop me a line</a>."
+#~ msgstr ""
+#~ "Has diseñado un tema hermoso para la página de bienvenida y lo quieres "
+#~ "compartir? Por favor, sigue este enlace <a href=\"http://www.laliamos.com/"
+#~ "obl/about/contact/\">y contacta conmigo para añadirlo al plugin.</a>."
+
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by LaLiamos"
+
+#~ msgid "Home Page"
+#~ msgstr "Inicio"

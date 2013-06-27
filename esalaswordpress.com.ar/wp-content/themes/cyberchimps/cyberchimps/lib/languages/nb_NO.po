@@ -1,0 +1,1411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CyberChimps Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-13 17:08:33 UTC\n"
+"PO-Revision-Date: 2013-05-31 10:51-0000\n"
+"Last-Translator: CyberChimps <support@cyberchimps.com>\n"
+"Language-Team: Norwegian Bokmål, Norway\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../functions.php
+msgid "Posted on "
+msgstr "Postet på "
+
+#: ../../functions.php
+msgid "View all posts by %s"
+msgstr "Se alle innlegg av %s"
+
+#: ../../functions.php
+msgid " by "
+msgstr " ved "
+
+#: ../../functions.php
+msgid "Posted in"
+msgstr "Skrevet i"
+
+#: ../../functions.php
+msgid "Tags:"
+msgstr "Tags:"
+
+#: ../../functions.php
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: ../../functions.php
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../../functions.php ../../options/options-core.php
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../../functions.php
+msgid "Permalink to %s"
+msgstr "Permalink til %s"
+
+#: ../../functions.php
+msgid "Category Archives:"
+msgstr "Kategori Archives:"
+
+#: ../../functions.php
+msgid "Tag Archives:"
+msgstr "Tag Archives:"
+
+#: ../../functions.php
+msgid "Author Archives"
+msgstr "Forfatter Archives"
+
+#: ../../functions.php
+msgid "Daily Archives:"
+msgstr "Daglig arkiver:"
+
+#: ../../functions.php
+msgid "Monthly Archives:"
+msgstr "Månedlige arkiver:"
+
+#: ../../functions.php
+msgid "Yearly Archives:"
+msgstr "Årlig arkiver:"
+
+#: ../../functions.php
+msgid "Shop"
+msgstr "Butikk"
+
+#: ../../functions.php
+msgid "Archives"
+msgstr "Arkiver"
+
+#: ../../functions.php ../../inc/meta-box.php
+msgid "Page"
+msgstr "Siden"
+
+#: ../../functions.php
+msgid "Continue Reading"
+msgstr "Fortsett å lese"
+
+#: ../../functions.php ../../options/options-init.php
+msgid "Instructions"
+msgstr "Instruksjoner"
+
+#: ../../functions.php ../../options/options-init.php
+msgid "Support"
+msgstr "Støtte"
+
+#: ../../functions.php
+msgid "Upgrade to %1$s"
+msgstr "Oppgrader til %1$ s"
+
+#: ../../functions.php
+msgid "If you want even more amazing new features upgrade to"
+msgstr "Hvis du vil ha enda mer fantastiske oppgradere nye funksjoner til"
+
+#: ../../functions.php
+msgid ""
+"which includes a Custom Features Slider, Image Carousel, Widgetized Boxes, "
+"Callout Section, expanded typography including Google Fonts, more color "
+"skins, and many more powerful new features. Please visit"
+msgstr ""
+"som inkluderer en egendefinert funksjoner glidebryteren, bilde karusellen, "
+"Widgetized bokser, Bildeforklaring-delen utvidet typografi inkludert Google "
+"skrifter, mer farge skins og mange mer kraftige nye funksjoner. Vennligst "
+"besøk"
+
+#: ../../functions.php
+msgid "to learn more!"
+msgstr "å lære mer!"
+
+#: ../../functions.php
+msgid "Welcome to %1$s! Learn more now about upgrading to"
+msgstr "Velkommen til %1$ s! Lære mer nå om oppgradering til"
+
+#: ../../functions.php
+msgid "today."
+msgstr "i dag."
+
+#: ../../functions.php ../../options/options-init.php
+msgid "Options"
+msgstr "Alternativer"
+
+#: ../../functions.php
+msgid " Options"
+msgstr " Alternativer"
+
+#: ../../functions.php
+msgid "Add Ons"
+msgstr "Add Ons"
+
+#: ../../functions.php
+msgid "The Events Calendar"
+msgstr "Hendelsene kalenderen"
+
+#: ../../functions.php
+msgid "Events"
+msgstr "Arrangementer"
+
+#: ../../functions.php
+msgid "Events Plugin Options"
+msgstr "Hendelser Plugin alternativer"
+
+#: ../../functions.php
+msgid "Please activate The Events Calendar plugin"
+msgstr "Vennligst Aktiver The aktivitetskalender plugin"
+
+#: ../../functions.php
+msgid "Install Events Calendar Plugin"
+msgstr "Installere hendelser kalender Plugin"
+
+#: ../../init.php
+msgid "Primary Menu"
+msgstr "Primær-menyen"
+
+#: ../../init.php
+msgid "Sidebar Left"
+msgstr "Sidefelt venstre"
+
+#: ../../init.php
+msgid "Sidebar Right"
+msgstr "Sidelinje høyre"
+
+#: ../../init.php ../../options/options-core.php
+msgid "Footer Widgets"
+msgstr "Bunntekst Widgets"
+
+#: ../../hooks/blog-hooks.php ../../inc/meta-box.php
+#: ../../options/options-core.php
+msgid "Slider Lite"
+msgstr "Glidebryteren Lite"
+
+#: ../../hooks/blog-hooks.php ../../inc/meta-box.php
+#: ../../options/options-core.php
+msgid "Boxes"
+msgstr "Bokser"
+
+#: ../../hooks/blog-hooks.php ../../options/options-core.php
+msgid "Post Page"
+msgstr "Innleggssiden"
+
+#: ../../hooks/header-hooks.php ../../options/options-core.php
+msgid "Logo + Icons"
+msgstr "Logo + ikoner"
+
+#: ../../inc/cc-custom-background.php
+msgid "Or choose one of CyberChimps background images"
+msgstr "Eller velge en av CyberChimps bakgrunnsbilder"
+
+#: ../../inc/meta-box-class.php
+msgid "Uploaded files"
+msgstr "Opplastede filer"
+
+#: ../../inc/meta-box-class.php
+msgid "Upload new files"
+msgstr "Laste opp nye filer"
+
+#: ../../inc/meta-box-class.php
+msgid "Add more file"
+msgstr "Tilføye flere fil"
+
+#: ../../inc/meta-box-class.php
+msgid "Uploaded images"
+msgstr "Opplastede bilder"
+
+#: ../../inc/meta-box-class.php
+msgid "Upload new images (Make sure to publish the post to save)"
+msgstr "Laster opp nye bilder (sørg for å publisere innlegget lagre)"
+
+#: ../../inc/meta-box-class.php
+msgid "Select a color"
+msgstr "Velg en farge"
+
+#: ../../inc/meta-box-class.php
+#: ../../options/options-medialibrary-uploader.php
+msgid "Upload"
+msgstr "Laste opp"
+
+#: ../../inc/meta-box-class.php
+msgid "or enter URL"
+msgstr "eller skriv inn URL"
+
+#: ../../inc/meta-box.php
+msgid "Slider Options"
+msgstr "Glidebryteren alternativer"
+
+#: ../../inc/meta-box.php
+msgid "Slider Image"
+msgstr "Glidebryteren bilde"
+
+#: ../../inc/meta-box.php
+msgid "Slider Caption"
+msgstr "Glidebryteren Caption"
+
+#: ../../inc/meta-box.php
+msgid "Custom Slide Link"
+msgstr "Egendefinerte skyve Link"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Title"
+msgstr "Tittel"
+
+#: ../../inc/meta-box.php
+msgid "Caption"
+msgstr "Bildeteksten"
+
+#: ../../inc/meta-box.php
+msgid "Need Help?"
+msgstr "Trenger du hjelp?"
+
+#: ../../inc/meta-box.php
+msgid "Select Page Layout"
+msgstr "Velg sideoppsett"
+
+#: ../../inc/meta-box.php
+msgid "Page Title"
+msgstr "Sidetittel"
+
+#: ../../inc/meta-box.php
+msgid "Page Elements"
+msgstr "Sideelementer"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Portfolio Lite"
+msgstr "Portefølje Lite"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Twitter Bar"
+msgstr "Twitter Bar"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: ../../options/options-core.php ../../inc/meta-box.php
+msgid "Featured Image"
+msgstr "Utvalgte bilde"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Category"
+msgstr "Kategori"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "You need to create a Category"
+msgstr "Du må opprette en kategori"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Number of Columns"
+msgstr "Antall kolonner"
+
+#: ../../inc/meta-box.php
+msgid "Number of Posts"
+msgstr "Antall innlegg"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Wide Posts Below Magazine"
+msgstr "Bredt innleggene under Magazine"
+
+#: ../../inc/meta-box.php
+msgid "Number of Wide Posts "
+msgstr "Antall bredt innlegg "
+
+#: ../../inc/meta-box.php
+msgid "Slide One Image"
+msgstr "Skyv ett bilde"
+
+#: ../../inc/meta-box.php
+msgid "Slide One Link"
+msgstr "Skyv én kobling"
+
+#: ../../inc/meta-box.php
+msgid "Slide Two Image"
+msgstr "To bildet"
+
+#: ../../inc/meta-box.php
+msgid "Slide Two Link"
+msgstr "Skyv to Link"
+
+#: ../../inc/meta-box.php
+msgid "Slide Three Image"
+msgstr "Tre bildet"
+
+#: ../../inc/meta-box.php
+msgid "Slide Three Link"
+msgstr "Skyv tre Link"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Slider Size"
+msgstr "Slider størrelse"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Full"
+msgstr "Full"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Half"
+msgstr "Halvparten"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Slider Type"
+msgstr "Glidebryteren Type"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Custom"
+msgstr "Egendefinert"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Posts"
+msgstr "Innlegg"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Post Categories"
+msgstr "Innlegg kategorier"
+
+#: ../../inc/meta-box.php
+msgid "All"
+msgstr "Alle"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Custom Categories"
+msgstr "Egendefinerte kategorier"
+
+#: ../../inc/meta-box.php
+msgid "Number of Featured Posts"
+msgstr "Antall kjennetegnet innlegg"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Slider Height"
+msgstr "Glidebryteren høyde"
+
+#: ../../inc/meta-box.php
+msgid "Slider Speed"
+msgstr "Glidebryteren hastighet"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Slider Arrows"
+msgstr "Glidebryteren piler"
+
+#: ../../inc/meta-box.php
+msgid "Product Layout"
+msgstr "Produkt-oppsett"
+
+#: ../../inc/meta-box.php
+msgid "Text Left"
+msgstr "Tekst mot venstre"
+
+#: ../../inc/meta-box.php
+msgid "Text Right"
+msgstr "Tekst til høyre"
+
+#: ../../inc/meta-box.php
+msgid "Product Title"
+msgstr "Produkttittel"
+
+#: ../../inc/meta-box.php
+msgid "Product"
+msgstr "Produkt"
+
+#: ../../inc/meta-box.php
+msgid "Product Text"
+msgstr "Produktet tekst"
+
+#: ../../inc/meta-box.php
+msgid "Media Type"
+msgstr "Medietype"
+
+#: ../../inc/meta-box.php
+msgid "Image"
+msgstr "Bilde"
+
+#: ../../inc/meta-box.php
+msgid "Video"
+msgstr "Video"
+
+#: ../../inc/meta-box.php
+msgid "Product Image URL"
+msgstr "Produktet Bildewebadresse"
+
+#: ../../inc/meta-box.php
+msgid "Product Video Embed"
+msgstr "Produktet videoen Embed"
+
+#: ../../inc/meta-box.php
+msgid "Product Link"
+msgstr "Produktet Link"
+
+#: ../../inc/meta-box.php
+msgid "Product URL"
+msgstr "Produkt URL"
+
+#: ../../inc/meta-box.php
+msgid "Product Link Text"
+msgstr "Koblingsteksten for produkt"
+
+#: ../../inc/meta-box.php
+msgid "Buy Now"
+msgstr "Kjøp nå"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Callout Title"
+msgstr "Bildeforklaring-tittel"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "%1$s's Call Out Element"
+msgstr "%1$ s ringe ut Element"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Callout Text"
+msgstr "Bildeforklaring-tekst"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid ""
+"Use %1$s's Call Out section on any page where you want to deliver an "
+"important message to your customer or client."
+msgstr ""
+"Bruk %1$ s kaller ut delen på hvilken som helst side der du vil levere en "
+"viktig beskjed til kunde eller klient."
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Callout Button"
+msgstr "Bildeforklaring-knappen"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Callout Button Text"
+msgstr "Bildeforklaring-knappen tekst"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Click Here"
+msgstr "Klikk her"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Callout Button URL"
+msgstr "Bildeforklaring-knappen URL"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Custom Callout Options"
+msgstr "Alternativer for egendefinert Bildeforklaring"
+
+#: ../../inc/meta-box.php
+msgid "Custom Button Image"
+msgstr "Egendefinert knappebilde"
+
+#: ../../inc/meta-box.php
+msgid "Custom Background Color"
+msgstr "Egendefinerte bakgrunnsfarge"
+
+#: ../../inc/meta-box.php
+msgid "Custom Title Color"
+msgstr "Egendefinert tittel farge"
+
+#: ../../inc/meta-box.php
+msgid "Custom Text Color"
+msgstr "Egendefinert tekstfarge"
+
+#: ../../inc/meta-box.php
+msgid "Custom Button Color"
+msgstr "Egendefinert knappefarge"
+
+#: ../../inc/meta-box.php
+msgid "Custom Button Text Color"
+msgstr "Egendefinert knapp tekstfarge"
+
+#: ../../inc/meta-box.php
+msgid "Need help?"
+msgstr "Trenger du hjelp?"
+
+#: ../../inc/meta-box.php
+msgid "Custom HTML"
+msgstr "Egendefinert HTML"
+
+#: ../../inc/meta-box.php
+msgid "Enter your custom html here"
+msgstr "Angi egendefinerte html her"
+
+#: ../../inc/meta-box.php
+msgid "Images per row"
+msgstr "Bilder per rad"
+
+#: ../../inc/meta-box.php
+msgid "Two"
+msgstr "To"
+
+#: ../../inc/meta-box.php
+msgid "Three"
+msgstr "Tre"
+
+#: ../../inc/meta-box.php
+msgid "Four"
+msgstr "Fire"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Portfolio Category"
+msgstr "Porteføljeadministrasjon kategori"
+
+#: ../../options/options-core.php ../../inc/meta-box.php
+msgid "Portfolio Title"
+msgstr "Portefølje-tittel"
+
+#: ../../inc/meta-box.php
+msgid "Portfolio"
+msgstr "Portefølje"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "First Portfolio Image"
+msgstr "Første portefølje bildet"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "First Portfolio Image Caption"
+msgstr "Første portefølje bildeteksten"
+
+#: ../../inc/meta-box.php
+msgid "Image 1"
+msgstr "Bilde 1"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "First Porfolio Link"
+msgstr "Første Porfolio linken"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Link URL"
+msgstr "Koble sammen URL"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Second Portfolio Image"
+msgstr "Andre portefølje bildet"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Second Portfolio Image Caption"
+msgstr "Andre portefølje bildeteksten"
+
+#: ../../inc/meta-box.php
+msgid "Image 2"
+msgstr "Bilde 2"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Second Porfolio Link"
+msgstr "Andre Porfolio linken"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Third Portfolio Image"
+msgstr "Tredje portefølje-bilde"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Third Portfolio Image Caption"
+msgstr "Tredje portefølje bildeteksten"
+
+#: ../../inc/meta-box.php
+msgid "Image 3"
+msgstr "Bilde 3"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Third Porfolio Link"
+msgstr "Tredje Porfolio Link"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Fourth Portfolio Image"
+msgstr "Fjerde portefølje-bilde"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Fourth Portfolio Image Caption"
+msgstr "Fjerde portefølje bildeteksten"
+
+#: ../../inc/meta-box.php
+msgid "Image 4"
+msgstr "Bilde 4"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Fourth Porfolio Link"
+msgstr "Fjerde Porfolio Link"
+
+#: ../../inc/meta-box.php
+msgid "Post Category"
+msgstr "Post kategori"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Images"
+msgstr "Bilder"
+
+#: ../../inc/meta-box.php
+msgid "Carousel Category"
+msgstr "Karusellen kategori"
+
+#: ../../inc/meta-box.php ../../options/options-core.php
+msgid "Twitter Handle"
+msgstr "Twitter håndtak"
+
+#: ../../inc/meta-box.php
+msgid "Enter your Twitter handle if using the Twitter bar"
+msgstr "Hvis du bruker Twitter-bar, angir du din Twitter håndtak"
+
+#: ../../inc/meta-box.php
+msgid "Boxes Category"
+msgstr "Boksene kategori"
+
+#: ../../options/options-core.php ../../inc/meta-box.php
+msgid "Number of boxes per row"
+msgstr "Antall bokser per rad"
+
+#: ../../options/options-core.php
+msgid "Help"
+msgstr "hjelp"
+
+#: ../../options/options-core.php
+msgid "Design"
+msgstr "Design"
+
+#: ../../options/options-core.php
+msgid "Header"
+msgstr "Topptekst"
+
+#: ../../options/options-core.php
+msgid "Blog"
+msgstr "Blogg"
+
+#: ../../options/options-core.php
+msgid "Templates"
+msgstr "Maler"
+
+#: ../../options/options-core.php
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: ../../options/options-core.php
+msgid "Layout Options"
+msgstr "Alternativer for sideoppsett"
+
+#: ../../options/options-core.php
+msgid "Custom Colors"
+msgstr "Egendefinerte farger"
+
+#: ../../options/options-core.php
+msgid "Typography"
+msgstr "Typografi"
+
+#: ../../options/options-core.php
+msgid "Header Drag &#38; Drop"
+msgstr "Topptekst dra & slippe"
+
+#: ../../options/options-core.php
+msgid "Header Options"
+msgstr "Topptekst-alternativer"
+
+#: ../../options/options-core.php
+msgid "Social Icons"
+msgstr "Sosial ikoner"
+
+#: ../../options/options-core.php
+msgid "Drag & Drop"
+msgstr "Dra-slipp &"
+
+#: ../../options/options-core.php
+msgid "Blog Options"
+msgstr "Blogg-alternativer"
+
+#: ../../options/options-core.php
+msgid "Blog Slider Lite"
+msgstr "Blog-glideren Lite"
+
+#: ../../options/options-core.php
+msgid "Portfolio Lite Options"
+msgstr "Lite alternativer for portefølje"
+
+#: ../../options/options-core.php
+msgid "Boxes Lite"
+msgstr "Boksene Lite"
+
+#: ../../options/options-core.php
+msgid "Blog Slider"
+msgstr "Blog-glideren"
+
+#: ../../options/options-core.php
+msgid "Callout Options"
+msgstr "Bildeforklaring-alternativer"
+
+#: ../../options/options-core.php
+msgid "HTML Box Options"
+msgstr "Alternativer i HTML"
+
+#: ../../options/options-core.php
+msgid "Carousel Options"
+msgstr "Karusellen alternativer"
+
+#: ../../options/options-core.php
+msgid "Magazine Options"
+msgstr "Magasinet alternativer"
+
+#: ../../options/options-core.php
+msgid "Portfolio Pro Options"
+msgstr "Portefølje Pro alternativer"
+
+#: ../../options/options-core.php
+msgid "Recent Posts Options"
+msgstr "Siste innlegg-alternativer"
+
+#: ../../options/options-core.php
+msgid "Twitterbar Options"
+msgstr "TwitterBar-alternativer"
+
+#: ../../options/options-core.php
+msgid "Boxes Options"
+msgstr "Boksene alternativer"
+
+#: ../../options/options-core.php
+msgid "Single Post"
+msgstr "Enkelt stolpe"
+
+#: ../../options/options-core.php
+msgid "Archive"
+msgstr "Arkiv"
+
+#: ../../options/options-core.php
+msgid "Search"
+msgstr "Søk"
+
+#: ../../options/options-core.php
+msgid "Footer Options"
+msgstr "Bunntekstalternativer for"
+
+#: ../../options/options-core.php
+msgid "Author"
+msgstr "Forfatter"
+
+#: ../../options/options-core.php
+msgid "Categories"
+msgstr "Kategorier"
+
+#: ../../options/options-core.php
+msgid "Date"
+msgstr "Dato"
+
+#: ../../options/options-core.php
+msgid "Tags"
+msgstr "Tags"
+
+#: ../../options/options-core.php
+msgid "Cyberchimps Help"
+msgstr "Cyberchimps hjelp"
+
+#: ../../options/options-core.php
+msgid "Responsive Design"
+msgstr "Forståelsesfull Design"
+
+#: ../../options/options-core.php
+msgid "Responsive Videos"
+msgstr "Forståelsesfull videoer"
+
+#: ../../options/options-core.php
+msgid "Gallery Lightbox"
+msgstr "Galleri Lightbox"
+
+#: ../../options/options-core.php
+msgid "Wide Sidebar"
+msgstr "Bredt Sidebar"
+
+#: ../../options/options-core.php
+msgid "Only works on layouts with 1 sidebar"
+msgstr "Fungerer bare på oppsett med 1 sidepanelet"
+
+#: ../../options/options-core.php ../../options/options-customizer.php
+msgid "Max Width"
+msgstr "Maksimal bredde"
+
+#: ../../options/options-core.php
+msgid "enter the width of your site in pixels"
+msgstr "Angi bredden på området i piksler"
+
+#: ../../options/options-core.php
+msgid "Select a Skin Color"
+msgstr "Velg en hudfarge"
+
+#: ../../options/options-core.php ../../options/options-customizer.php
+msgid "Text Color"
+msgstr "Tekstfargen"
+
+#: ../../options/options-core.php
+msgid "Select text color"
+msgstr "Velg en farge"
+
+#: ../../options/options-core.php ../../options/options-customizer.php
+msgid "Link Color"
+msgstr "Link fargen"
+
+#: ../../options/options-core.php
+msgid "Select link color"
+msgstr "Velg koblingen farge"
+
+#: ../../options/options-core.php ../../options/options-customizer.php
+msgid "Link Hover Color"
+msgstr "Link pekerfølsom koblingsfarge"
+
+#: ../../options/options-core.php
+msgid "Select link hover color"
+msgstr "Velg koblingen pekerfølsom koblingsfarge"
+
+#: ../../options/options-core.php
+msgid "Typography Options"
+msgstr "Alternativer for typografi"
+
+#: ../../options/options-core.php
+msgid "Google fonts"
+msgstr "Google skrifter"
+
+#: ../../options/options-core.php
+msgid "Enter Google font"
+msgstr "Angi Google-skrift"
+
+#: ../../options/options-core.php
+msgid "Demo Text"
+msgstr "Demo-tekst"
+
+#: ../../options/options-core.php
+msgid "Header Drag/Drop"
+msgstr "Topptekst dra/slipp"
+
+#: ../../options/options-core.php
+msgid "Logo + Search"
+msgstr "Logo + søk"
+
+#: ../../options/options-core.php
+msgid "Logo"
+msgstr "Logo"
+
+#: ../../options/options-core.php
+msgid "Custom Logo URL"
+msgstr "Tilpasset Logo URL"
+
+#: ../../options/options-core.php
+msgid "URL"
+msgstr "URL-ADRESSEN"
+
+#: ../../options/options-core.php
+msgid "Enter URL"
+msgstr "Angi URL-adressen"
+
+#: ../../options/options-core.php
+msgid "Custom Logo"
+msgstr "Tilpasset Logo"
+
+#: ../../options/options-core.php
+msgid "Logo Image"
+msgstr "Logobilde"
+
+#: ../../options/options-core.php
+msgid "Enter URL or upload file"
+msgstr "Angi URL-adressen eller laste opp filen"
+
+#: ../../options/options-core.php
+msgid "Custom Favicon"
+msgstr "Favorittikon"
+
+#: ../../options/options-core.php
+msgid "Favicon URL"
+msgstr "Favicon URL"
+
+#: ../../options/options-core.php
+msgid "Custom Apple touch icon"
+msgstr "Tilpasset Apple touch ikon"
+
+#: ../../options/options-core.php
+msgid "Apple Touch URL"
+msgstr "Apple Touch URL"
+
+#: ../../options/options-core.php
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../../options/options-core.php
+msgid "Copy and paste your Google Analytics code here"
+msgstr "Kopier og lim inn din Google Analytics-koden her"
+
+#: ../../options/options-core.php
+msgid "Searchbar"
+msgstr "Searchbar"
+
+#: ../../options/options-core.php
+msgid "Choose your icon style"
+msgstr "Velg din stil ikon"
+
+#: ../../options/options-core.php
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../../options/options-core.php
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: ../../options/options-core.php
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../../options/options-core.php
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../../options/options-core.php
+msgid "Google+"
+msgstr "Google +"
+
+#: ../../options/options-core.php
+msgid "Google+ URL"
+msgstr "Google + URL"
+
+#: ../../options/options-core.php
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../../options/options-core.php
+msgid "Flickr URL"
+msgstr "Flickr-URL"
+
+#: ../../options/options-core.php
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../../options/options-core.php
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: ../../options/options-core.php
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../../options/options-core.php
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: ../../options/options-core.php
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../../options/options-core.php
+msgid "YouTube URL"
+msgstr "YouTube-Nettadresse"
+
+#: ../../options/options-core.php
+msgid "RSS"
+msgstr "RSS"
+
+#: ../../options/options-core.php
+msgid "RSS URL"
+msgstr "RSS-URL"
+
+#: ../../options/options-core.php
+msgid "Email"
+msgstr "E-post"
+
+#: ../../options/options-core.php
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#: ../../options/options-core.php
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: ../../options/options-core.php
+msgid "Google Maps URL"
+msgstr "Google Maps-URL"
+
+#: ../../options/options-core.php
+msgid "Drag & Drop Blog Elements"
+msgstr "Dra & slipp blogg-elementer"
+
+#: ../../options/options-core.php
+msgid "Sidebar Options"
+msgstr "Side-alternativer"
+
+#: ../../options/options-core.php
+msgid "Post Formats Icons"
+msgstr "Innlegget formater ikoner"
+
+#: ../../options/options-core.php
+msgid "Post Excerpts"
+msgstr "Legge ut utdrag"
+
+#: ../../options/options-core.php
+msgid "Read More Text"
+msgstr "Les mer tekst"
+
+#: ../../options/options-core.php
+msgid "Excerpt Length"
+msgstr "Utdragslengde"
+
+#: ../../options/options-core.php
+msgid "Featured Images"
+msgstr "Utvalgte bilder"
+
+#: ../../options/options-core.php
+msgid "Post Byline Author"
+msgstr "Innlegg Byline forfatter"
+
+#: ../../options/options-core.php
+msgid "Post Byline Categories"
+msgstr "Innlegg Byline kategorier"
+
+#: ../../options/options-core.php
+msgid "Post Byline Date"
+msgstr "Innlegget Byline dato"
+
+#: ../../options/options-core.php
+msgid "Post Byline Comments"
+msgstr "Innlegget Byline kommentarer"
+
+#: ../../options/options-core.php
+msgid "Post Byline Tags"
+msgstr "Post Byline-koder"
+
+#: ../../options/options-core.php
+msgid "Boxes Upgrade"
+msgstr "Bokser-oppgradering"
+
+#: ../../options/options-core.php
+msgid ""
+"Boxes Lite limits you to a total of 3 boxes throughout your whole site. "
+"Upgrade to %1$s to be able to create as many boxes as you like. Categorize "
+"them and display each category on a different page."
+msgstr ""
+"Boksene Lite begrenser du totalt 3 bokser gjennom hele nettstedet. Oppgrader "
+"til %1$ s skal kunne opprette så mange bokser som du liker. Kategorisere dem "
+"og vise hver kategori på en annen side."
+
+#: ../../options/options-core.php
+msgid "Pro"
+msgstr "Pro"
+
+#: ../../options/options-core.php
+msgid "First Box Image"
+msgstr "Første boksen bildet"
+
+#: ../../options/options-core.php
+msgid "First Box Text"
+msgstr "Første boksen tekst"
+
+#: ../../options/options-core.php
+msgid "Second Box Image"
+msgstr "Andre boksen bildet"
+
+#: ../../options/options-core.php
+msgid "Second Box Text"
+msgstr "Andre boksen tekst"
+
+#: ../../options/options-core.php
+msgid "Third Box Image"
+msgstr "Tredje boksen bilde"
+
+#: ../../options/options-core.php
+msgid "Third Box Text"
+msgstr "Tredje boksen tekst"
+
+#: ../../options/options-core.php
+msgid "Portfolio Upgrade"
+msgstr "Portefølje-oppgradering"
+
+#: ../../options/options-core.php
+msgid ""
+"Portfolio Lite limits you to a total of 4 items throughout your whole site. "
+"Upgrade to %1$s to be able to create as many portfolio items as you like. "
+"Categorize them and display each category on a different page."
+msgstr ""
+"Portefølje Lite, begrenser deg til totalt 4 elementer gjennom hele "
+"nettstedet. Oppgrader til %1$ s skal kunne opprette så mange portefølje "
+"elementer som du liker. Kategorisere dem og vise hver kategori på en annen "
+"side."
+
+#: ../../options/options-core.php
+msgid "Slider Upgrade"
+msgstr "Glidebryteren oppgradering"
+
+#: ../../options/options-core.php
+msgid ""
+"Slider Lite limits you to a total of 3 images throughout your whole site. "
+"Upgrade to %1$s to be able to create more images. Categorize them and "
+"display each category on a different page."
+msgstr ""
+"Glidebryteren Lite begrenser du totalt 3 bilder på hele nettstedet. "
+"Oppgrader til %1$ s å kunne opprette flere bilder. Kategorisere dem og vise "
+"hver kategori på en annen side."
+
+#: ../../options/options-core.php
+msgid "Slider Image 1"
+msgstr "Glidebryteren bilde 1"
+
+#: ../../options/options-core.php
+msgid "Slide 1 URL"
+msgstr "URL-adressen for lysbilde 1"
+
+#: ../../options/options-core.php
+msgid "Slider Image 2"
+msgstr "Glidebryteren bilde 2"
+
+#: ../../options/options-core.php
+msgid "Slide 2 URL"
+msgstr "Lysbilde 2-URL"
+
+#: ../../options/options-core.php
+msgid "Slider Image 3"
+msgstr "Glidebryteren bilde 3"
+
+#: ../../options/options-core.php
+msgid "Slide 3 URL"
+msgstr "Lysbilde 3 URL"
+
+#: ../../options/options-core.php
+msgid "Images per Row"
+msgstr "Bilder per rad"
+
+#: ../../options/options-core.php
+msgid "Featured Excerpt Length"
+msgstr "Utvalgte Utdragslengde"
+
+#: ../../options/options-core.php
+msgid "Number of Rows"
+msgstr "Antall rader"
+
+#: ../../options/options-core.php
+msgid "Wide Post Excerpt Length"
+msgstr "Bredt innlegget Utdragslengde"
+
+#: ../../options/options-core.php
+msgid "Number of Wide Posts"
+msgstr "Antall bredt innlegg"
+
+#: ../../options/options-core.php
+msgid "Number of Featured Blog Posts"
+msgstr "Rekke utvalgte blogginnlegg"
+
+#: ../../options/options-core.php
+msgid "Slider Speed "
+msgstr "Glidebryteren hastighet "
+
+#: ../../options/options-core.php
+msgid "Custom Callout Button"
+msgstr "Egendefinert Bildeforklaring-knappen"
+
+#: ../../options/options-core.php
+msgid "Custom Callout Background Color"
+msgstr "Bakgrunnsfarge for egendefinert Bildeforklaring"
+
+#: ../../options/options-core.php
+msgid "Custom Callout Title Color"
+msgstr "Egendefinert Bildeforklaring tittelen farge"
+
+#: ../../options/options-core.php
+msgid "Custom Callout Text Color"
+msgstr "Tekstfarge for egendefinert Bildeforklaring"
+
+#: ../../options/options-core.php
+msgid "Custom Callout Button Color"
+msgstr "Egendefinert Bildeforklaring knappefarge"
+
+#: ../../options/options-core.php
+msgid "Custom Callout Button Text Color"
+msgstr "Tekstfarge for egendefinert Bildeforklaring-knappen"
+
+#: ../../options/options-core.php
+msgid "HTML Box"
+msgstr "HTML-boksen"
+
+#: ../../options/options-core.php
+msgid "Enter your custom HTML code here"
+msgstr "Angi egendefinerte htmlkode her"
+
+#: ../../options/options-core.php
+msgid "Custom Title"
+msgstr "Egendefinert tittel"
+
+#: ../../options/options-core.php
+msgid "Select a Category"
+msgstr "Velg en kategori"
+
+#: ../../options/options-core.php
+msgid "Images for layout."
+msgstr "Bilder for oppsett."
+
+#: ../../options/options-core.php
+msgid "Post title"
+msgstr "Innleggstittel"
+
+#: ../../options/options-core.php
+msgid "Post Format Icons"
+msgstr "Innlegget Format ikoner"
+
+#: ../../options/options-core.php
+msgid "Custom 404 Title"
+msgstr "Egendefinert 404 tittel"
+
+#: ../../options/options-core.php
+msgid "Custom 404 Content"
+msgstr "Egendefinert 404 innhold"
+
+#: ../../options/options-core.php
+msgid "Footer Copyright Text"
+msgstr "Copyright bunntekst"
+
+#: ../../options/options-customizer.php
+msgid "Customize"
+msgstr "Tilpasse"
+
+#: ../../options/options-customizer.php
+msgid ""
+"make sure you have removed the image above before selecting one of these"
+msgstr "Kontroller at du har fjernet bildet ovenfor før du velger en av disse"
+
+#: ../../options/options-customizer.php
+msgid "Skin Color"
+msgstr "Hudfarge"
+
+#: ../../options/options-customizer.php
+msgid "Typography Size"
+msgstr "Typografi størrelse"
+
+#: ../../options/options-customizer.php
+msgid "Typography Face"
+msgstr "Typografi ansikt"
+
+#: ../../options/options-customizer.php
+msgid "Typography Style"
+msgstr "Typografi stil"
+
+#: ../../options/options-customizer.php
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: ../../options/options-init.php
+msgid "Theme Options Page"
+msgstr "Tema valg siden"
+
+#: ../../options/options-init.php
+msgid "Theme Options"
+msgstr "Theme valg"
+
+#: ../../options/options-init.php
+msgid "Buy Themes"
+msgstr "Kjøpe temaer"
+
+#: ../../options/options-init.php
+msgid "Restore Defaults"
+msgstr "Bruk standard"
+
+#: ../../options/options-init.php
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klikk OK for å tilbakestille. Alle temainnstillinger vil gå tapt!"
+
+#: ../../options/options-init.php
+msgid "Save Options"
+msgstr "Lagringsalternativer"
+
+#: ../../options/options-init.php
+msgid "CyberChimps Wordpress Themes"
+msgstr "CyberChimps Wordpress temaer"
+
+#: ../../options/options-init.php
+msgid "Default Field"
+msgstr "Standardfeltet"
+
+#: ../../options/options-init.php
+msgid "Options Imported"
+msgstr "Alternativer som er importert"
+
+#: ../../options/options-init.php
+msgid "Invalid Data for Import"
+msgstr "Ugyldige Data for Import"
+
+#: ../../options/options-init.php
+msgid "Default options restored."
+msgstr "Standardalternativer gjenopprettet."
+
+#: ../../options/options-init.php
+msgid "Options saved."
+msgstr "Alternativer som er lagret."
+
+#: ../../options/options-medialibrary-uploader.php
+msgid "Theme Options Media"
+msgstr "Tema alternativer Media"
+
+#: ../../options/options-medialibrary-uploader.php
+msgid "View File"
+msgstr "Visningsfil"
+
+#: ../../options/options-medialibrary-uploader.php
+msgid "Gallery"
+msgstr "Galleri"
+
+#: ../../options/options-medialibrary-uploader.php
+msgid "Previously Uploaded"
+msgstr "Tidligere lastet opp"
+
+#: ../../options/options-sanitize.php
+msgid "No Repeat"
+msgstr "Noen gjentakelse"
+
+#: ../../options/options-sanitize.php
+msgid "Repeat Horizontally"
+msgstr "Gjenta vannrett"
+
+#: ../../options/options-sanitize.php
+msgid "Repeat Vertically"
+msgstr "Gjenta loddrett"
+
+#: ../../options/options-sanitize.php
+msgid "Repeat All"
+msgstr "Gjenta alle"
+
+#: ../../options/options-sanitize.php
+msgid "Top Left"
+msgstr "Øverst til venstre"
+
+#: ../../options/options-sanitize.php
+msgid "Top Center"
+msgstr "Oppe i midten"
+
+#: ../../options/options-sanitize.php
+msgid "Top Right"
+msgstr "Øverst til høyre"
+
+#: ../../options/options-sanitize.php
+msgid "Middle Left"
+msgstr "Midten venstre"
+
+#: ../../options/options-sanitize.php
+msgid "Middle Center"
+msgstr "Sentrert i midten"
+
+#: ../../options/options-sanitize.php
+msgid "Middle Right"
+msgstr "Midtstilt til høyre"
+
+#: ../../options/options-sanitize.php
+msgid "Bottom Left"
+msgstr "Nederst til venstre"
+
+#: ../../options/options-sanitize.php
+msgid "Bottom Center"
+msgstr "Nederst i midten"
+
+#: ../../options/options-sanitize.php
+msgid "Bottom Right"
+msgstr "Nederst til høyre"
+
+#: ../../options/options-sanitize.php
+msgid "Scroll Normally"
+msgstr "Bla normalt"
+
+#: ../../options/options-sanitize.php
+msgid "Fixed in Place"
+msgstr "Fast på plass"
+
+#: ../../options/options-sanitize.php
+msgid "Normal"
+msgstr "Normal"
+
+#: ../../options/options-sanitize.php
+msgid "Italic"
+msgstr "Kursiv"
+
+#: ../../options/options-sanitize.php
+msgid "Bold"
+msgstr "Fet"
+
+#: ../../options/options-sanitize.php
+msgid "Bold Italic"
+msgstr "Fet kursiv"

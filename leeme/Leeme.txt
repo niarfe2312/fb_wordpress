@@ -1,0 +1,18 @@
+﻿
+
+Acceso a la administración del sitio
+
+
+Usuario: efrain
+Contraseña: f*w}$+jvE-
+
+
+
+
+*** Recuerde modificar el archivo wp-config.php
+- nombre de la base de datos
+- nombre de usuario
+- contraseña
+
+
+

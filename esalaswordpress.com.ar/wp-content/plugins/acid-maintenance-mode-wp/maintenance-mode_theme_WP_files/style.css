@@ -1,0 +1,217 @@
+/*  
+Theme Name: Tempskin
+Theme URI: http://web2feel.com
+Author: jinsona
+Author URI: http://web2feel.com
+Description: A temperory placeholder theme while your site is getting ready
+*/
+html, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	margin:0 auto;
+	padding:0px 0px 0px 0px;
+	background:#fff ;
+	font-family:Tahoma,Century gothic, Arial,Tahoma,sans-serif;
+	color:#585858;
+	font-size:10px;
+	}
+a {
+
+	text-decoration:none;
+	outline:none;
+	}	
+#wrapper {
+	width:1000px;
+	margin:0 auto;
+	background:#fff url(images/body.png) no-repeat;
+	height:630px;
+	}
+	
+#head{
+	width:730px;
+	margin:0px 0px;
+	position:relative;
+	height:226px;
+	overflow:hidden;
+}
+
+#head h1{
+
+	font-size:46px;
+	font-weight:bold;
+	color:#606060;
+	padding:100px 0px 0px 0px;
+	text-align:center;
+}
+
+#head h1  a:link, #head h1 a:visited{ 
+	color: #c30c0c; 
+
+	}
+	
+#head h1  a:hover { 
+	color: #eee; 
+	}
+	
+#head h2{
+	text-align:center;
+	font-size:18px;
+	color:#606060;
+	padding:10px 0px 0px 0px;
+	
+}
+
+#subhead{
+	width:730px;
+	margin:0px 0px;
+	position:relative;
+
+}
+
+#subhead h3{
+	text-align:center;
+	font-size:30px;
+	color:#414141;
+	padding:10px 0px 0px 0px;
+	
+}
+
+#content{
+	width:730px;
+	margin:0px 0px;
+	position:relative;
+
+}
+#rssbox{
+		position:absolute;
+		left:105px;
+		top:22px;
+		width:35px;
+		height:32px;
+}
+
+
+.feed{
+	position:absolute;
+	width:255px;
+	top:22px;
+	left:150px;
+	padding:4px 0px 0px 3px;
+	color:#F3F6FB;
+	height:27px;
+	font: 10px Tahoma,century gothic,Georgia,Verdana, sans-serif;
+}
+
+.feed h2 {
+	font: 20px century gothic,Georgia,Verdana, sans-serif;
+	margin:0px 0px 10px 0px;
+	color:#152839;
+	font-weight:bold;
+	
+}
+
+.feed form {
+	margin: 0;
+	padding: 0;
+}
+
+.feed fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.feed p {
+	margin: 0;
+	font-size: 85%;
+}
+
+.input{
+	margin-left:0px;
+	float: left;
+	width:180px;
+	padding: 6px 2px 3px 5px;
+	background:transparent;
+	border:none;
+	color:#2A4B68;
+	font: 10px Tahoma,century gothic,Georgia,Verdana, sans-serif;
+}
+
+.sbutton{
+	width:57px;
+	float: right;
+	padding:0px 0px;
+	background:url(images/button.png) no-repeat;
+	border:none;
+	font: bold 100% "Tahoma", Arial, Helvetica, sans-serif;
+	color: #eee;
+	height:23px;
+	line-height:20px;
+}
+
+.twitter{
+	position:absolute;
+	top:28px;
+	left:465px;
+	padding:4px 0px 0px 3px;
+	color:#F3F6FB;
+	font: 10px Tahoma,century gothic,Georgia,Verdana, sans-serif;
+}
+
+.twitter  a:link, .twitter  a:visited{ 
+	color: #2B89AF; 
+
+	}
+	
+.twitter a:hover { 
+	color: #414141; 
+	}
+	
+.adminlogin{
+	position:absolute;
+	top:65px;
+	left:323px;
+	padding:6px 0px 0px 3px;
+	color:#F3F6FB;
+	height:27px;
+	font: 9px Tahoma,century gothic,Georgia,Verdana, sans-serif;
+}
+
+.adminlogin a:link, .adminlogin  a:visited{ 
+	color: #C30C0C; 
+	}
+	
+.adminlogin a:hover { 
+	color: #414141; 
+	}
+	
+#footer{
+
+	position:absolute;
+	bottom:5px;
+	right:10px;
+	font-weight:normal;
+}
+
+#footer a:link, #footer  a:visited{ 
+	color: #C30C0C; 
+	}
+	
+#footer a:hover { 
+	color: #414141; 
+	}
